@@ -1,2 +1,2 @@
-#!/bin/bash
-pwd
+[main 2c83982] exit exit chmod u+x 0-current_working_directory ls pwd
+ 1 file changed, 1 insertion(+), 1 deletion(-)
