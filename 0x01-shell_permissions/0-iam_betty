@@ -1,2 +1,3 @@
 #!/bin/bash
-command1
+su betty
+command
